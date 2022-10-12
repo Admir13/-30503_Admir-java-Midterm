@@ -60,16 +60,22 @@ Answer:A Java object is a member also called an instance of a Java class. Each o
        are also known as classes.
 
 What is the entry point of a Java project?
-Answer:
+Answer:A Java entry point class has a main method  public static void main(String[] args)
+       When the java command starts the virtual machine, it loads the specified entry point
+       classes and tries to find main.
 
 Why is the main() method static?
-Answer:
+Answer:When java runtime starts, there is no object of the class present,
+that's why the main method has to be static so that JVM can load the class into memory and call the main method.
 
 Which class is the superclass of all classes?
-Answer:
+Answer:The Object class is the superclass of all other classes in Java and a part of the built-in
+       java.lang package. If a parent class isn&#39;t specified using the extends keyword, the class will
+       inherit from the Object class.
 
 What is difference between path and classpath variables?
-Answer:
+Answer:Path it is used by the operating system to find the executable files (.exe).
+       ClassPath it is used by Application ClassLoader to locate the class file.
 
 What is the difference between an Interface and Abstract class?
 Answer:
