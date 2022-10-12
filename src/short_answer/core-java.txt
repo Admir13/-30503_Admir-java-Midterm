@@ -78,13 +78,29 @@ Answer:Path it is used by the operating system to find the executable files (.ex
        ClassPath it is used by Application ClassLoader to locate the class file.
 
 What is the difference between an Interface and Abstract class?
-Answer:
+Answer:1) Abstract class can have abstract and non-abstract methods.
+          Interface can have only abstract methods.
+        2) Abstract class doesn't support multiple inheritance. Interface supports multiple inheritance.
+        3) Abstract class can have final, non-final, static and non-static variables.
+            Interface has only static and final variables.
+        4) Abstract class can provide the implementation of interface.
+           Interface can't provide the implementation of abstract class.
+        5) The abstract keyword is used to declare abstract class. The interface keyword is used to declare interface.
+        6) An abstract class can extend another Java class and implement multiple Java interfaces.
+        An interface can extend another Java interface only.
+        7) An abstract class can be extended using keyword extends.
+         An interface can be implemented using keyword implements.
+        8) A Java abstract class can have class members like private, protected, etc.
+           Members of a Java interface are public by default.
 
 Can you make an Object from an Interface and Abstract class? If yes or no, how would you do it?
-Answer:
+Answer:No, we can't create an object of an abstract class. But we can create a reference variable of an
+       abstract class.
 
 What is Access Modifier?
-Answer:
+Answer:Access modifiers in Java helps to restrict the scope of a class, constructor, variable, method,
+       or data member. There are four types of access modifiers public, protected, default, and
+       private.
 
 What is OOP? Define each OOP concept.
 Answer:
