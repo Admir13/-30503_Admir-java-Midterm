@@ -33,13 +33,31 @@ Explain the entire java life cycle.
 Answer:Life cycle of a java program tells us what happens right from the point when we type source
        code in a text editor to the point that source code is converted into machine code
        There are three main stages in the life cycle of a java program. They are, Editing the
-       program, Compiling the source code, Executing the byte code
-
+       program, Compiling the source code, Executing the byte code.
+       The Java application life cycle. We can use any text editor to create the high-level Java text
+       file. This file is saved as a .java file on the disk. We then compile this text file using the
+       Java compiler, which result in a class file being created on the disk. The class file
+       contains the bytecodes. The file is then loaded into memory by the class loader. The
+       bytecode verifier confirms that the bytecodes are valid and not hostile. Finally, the JVM
+       reads the bytecodes in memory and translates them into machine code.
+       The latest release
+       of Java 2 includes two virtual machine implementations,
+       Java HotSpot Client VM  A virtual machine tuned for single-user client applications that
+       require fast start-up times and low memory usage.
+       Java HotSpot Server VM A virtual machine tuned for multi-user applications running in a
+       server environment.
 What is a class?
-Answer:
+Answer:A class is a template used to create objects and to define object data types and
+       methods.Everything in Java is associated with classes and objects, along with its
+       attributes and methods. For example: in real life, a car is an object. The car
+       has attributes, such as weight and color, and methods, such as drive and
+       brake.A Class is like an object constructor, or a blueprint for creating objects.
 
 What is an object?
-Answer:
+Answer:A Java object is a member also called an instance of a Java class. Each object has an identity,
+       a behavior and a state. The state of an object is stored in fields (variables), while methods
+       (functions) display the object's behavior. Objects are created at runtime from templates, which
+       are also known as classes.
 
 What is the entry point of a Java project?
 Answer:
