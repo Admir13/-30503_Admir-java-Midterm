@@ -1,10 +1,23 @@
 ***ANSWER ALL OF THE QUESTIONS BELOW***
 
 What is a programming language?
-Answer:
+Answer:A programming language is a computer language that is used by programmers (developers) to
+       communicate with computers. It is a set instruction written in any specific language like Java to
+       perform a specific task.
 
 What is a JDK composed of? Define each components?
-Answer:
+Answer:JDK (Java Development Kit) is a software development environment used to develop and execute(run)
+       the JAVA program. JDK is everything. JDK is JRE and JVM. JDK is a kit or package that includes tow things.
+       Development tools( to provide an environment to develop your java programs. JRE (to execute your
+       Java programing)
+       JRE Java Runtime Environment is an installation package that provides an
+       environment to only run(not develop) the java program(or application)onto
+       your machine. JRE is only used by those who only want to run Java programs
+       that are end users of your system.
+       JVM (java virtual machine) is a very important part of both JDK and JRE
+       because it is contained or inbuilt in both. Whatever Java program you run using
+       JRE or JDK goes into JVM and JVM is responsible for executing the java
+       program line by line, hence it is also known as an interpreter.
 
 What is an IDE?
 Answer:
