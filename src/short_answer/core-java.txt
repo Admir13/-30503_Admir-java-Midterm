@@ -129,13 +129,19 @@ Answer:In Java, the package is the collection of Java classes and interfaces. Ja
        internally by default.
 
 What is an API? List some API's that you have used so far.
-Answer:
+Answer:Application Programming Interface (API) ia a software interface that allows tow
+       applications to interact with each other without any user intervention.
 
 Does java support multiple inheritance? Why or why not?
-Answer:
+Answer:Java doesn't support multiple inheritances in classes because it can lead to diamond
+       problem and rather than providing some complex way to solve it, there are better ways through
+       which we can achieve the same result as multiple inheritances.
 
 What is method overloading? List all of the different ways to overload.
-Answer:
+Answer:When a class have multiple methods by same name but different parameters, known as method
+       overloading.git Method overloading can be achieved by changing the number of
+       parameters in a method. By changing the order of parameters in a method. By using
+       different data types for parameters.
 
 Explain exceptions in java and how to handle them.
 Answer:
