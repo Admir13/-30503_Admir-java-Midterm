@@ -103,10 +103,30 @@ Answer:Access modifiers in Java helps to restrict the scope of a class, construc
        private.
 
 What is OOP? Define each OOP concept.
-Answer:
+Answer:Object-Oriented Programming System (OOPs) is a programming concept that
+       works on the principles of abstraction, encapsulation, inheritance, and
+       polymorphism. It allows users to create objects they want and create methods to
+
+       handle those objects. The basic concept of OOPs is to create objects, re-use them
+       throughout the program, and manipulate these objects to get results.. There are 4
+       types of OOP’S: Abstraction, encapsulation, inheritance, and polymorphism
+       Abstraction is one of the OOP Concepts in Java which is an act of representing
+       essential features without including background details. It is a technique of
+       creating a new data type that is suited for a specific application.
+       Encapsulation is one of the best Java OOPs concepts .Encapsulation is data hiding
+       using getters and setters . In this OOPs concept, the variables of a class are always
+       hidden from other classes. It can only be accessed using the methods of their
+       current class.
+       Inheritance is one of the Basic Concepts of OOPs in which one object acquires the
+       properties and behaviors of the parent object. It’s creating a parent-child
+       relationship between two classes.
+       Polymorphism refers to one of the OOPs concepts in java. Polymorphism means
+       many forms, and it occurs when we have many classes that are related to each other by
+       inheritance.
 
 What is Java Package and which package is imported by default?
-Answer:
+Answer:In Java, the package is the collection of Java classes and interfaces. Java compiler imports java.lang package
+       internally by default.
 
 What is an API? List some API's that you have used so far.
 Answer:
