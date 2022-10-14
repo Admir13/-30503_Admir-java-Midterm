@@ -24,7 +24,9 @@ How is an Array different from LinkedList?
 Answer:
 
 What is a Queue?
-Answer:
+Answer:Queue in Java is a linear ordered data structure that follows FIFO (First In, First Out) ordering of elements.
+This means that the element inserted first in the queue will be the first element to  be removed
+ In Java, the queue is implemented as an interface that inherits the Collection interface.
 
 What is a Stack (referring to data structures)?
 Answer:
