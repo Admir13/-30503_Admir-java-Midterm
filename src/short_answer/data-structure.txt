@@ -15,7 +15,7 @@ What is an Array?
 Answer:An array is a collection of similar data elements stored at contiguous memory locations
 
 What is the difference between Array and ArrayList?
-Answer:
+Answer:Array is a fixed length data structure, ArrayList is a variable length Collection class
 
 What is a LinkedList?
 Answer:
