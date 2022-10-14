@@ -18,7 +18,7 @@ What is the difference between Array and ArrayList?
 Answer:Array is a fixed length data structure, ArrayList is a variable length Collection class
 
 What is a LinkedList?
-Answer:
+Answer:A linked list is a sequence of data structures, which are connected together via links.
 
 How is an Array different from LinkedList?
 Answer:
