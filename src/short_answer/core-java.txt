@@ -354,4 +354,9 @@ What is dependency injection in Java?
 Answer:
 
 Explain what static binding and dynamic binding is?
-Answer:
+Answer:Static binding is the binding which can be resolved at compile time by compiler.It
+is also known as early binding because binding takes place before the program actual runs.
+when we perform method overloading that is an example of static biding.
+In dynamic binding compilers is not able to resolve the binding at compile time.
+Dynamic binding is also known as late binding because happens during run time.
+method overloading is an example when dynamic binding is done.
