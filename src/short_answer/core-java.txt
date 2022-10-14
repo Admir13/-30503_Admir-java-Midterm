@@ -159,7 +159,7 @@ Answer:Static keyword in Java is used to share the same variable or method of a 
        same for every instance of a class.
 
 What is final keyword? When and how do we use it?
-Answer:Java final keyword is a non-access specifier that is used to restrict a class, variable, and
+Answer:Java final keyword is a non access specifier that is used to restrict a class, variable, and
        method. If we initialize a variable with the final keyword, then we cannot modify its value. If we
        declare a method as final, then it cannot be overridden by any subclasses. The final keyword is
        useful when you want a variable to always store the same value,
@@ -173,7 +173,7 @@ What is a constructor?
 Answer:A constructor in Java is a special method that is used to initialize objects. The
        constructor is called when an object of a class is created. It can be used to set
        initial values for object attributes. The constructor name must match thee class
-       name , and it cannot have a return type like void
+       name ,and it cannot have a return type like void
 
 Can we have multiple constructors in a class?
 Answer:Yes a class can have multiple constructors.
