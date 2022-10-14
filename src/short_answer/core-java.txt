@@ -218,31 +218,52 @@ Answer:A Jar (Java Archive) is a package file format typically used to aggregate
        files, audio files, image files, or directories.
 
 What is the difference between JDK and JVM?
-Answer:
+Answer:The JVM is an abbreviation for Java Virtual Machine.The JDK  is a
+       software development kit that develops applications in Java.
 
 What is the difference between JVM and JRE?
 Answer:
 
 Explain the difference between compile-time and run-time?
-Answer:
+Answer:JRE identifies all the helpful class libraries needed for execution, while JVM is a subclass of
+       JRE that decodes the bytecode into machine language and other minor tasks.
 
 What is heap?
-Answer:
+Answer:The Heap is a memory used by programing languages to store global variables. By default, all global
+       variable are stored in heap memory space. It supports dynamic memory allocation. The heap is not
+       managed automatically for you and is not as tightly managed by the CPU. It is more like a free –
+       floating region of memory.
+
 
 How does Java manage its memory?
-Answer:
+Answer:In Java, memory management is the process of allocation and de-allocation of objects, called
+       Memory management. Java does memory management automatically.Java uses an automatic
+       memory management system called a garbage collector.
 
 What is the difference between String, StringBuffer and StringBuilder?
-Answer:
+Answer:String is immutable whereas StringBuffer and StringBuilder are mutable classes. StringBuffer
+       is thread-safe and synchronized whereas StringBuilder is not. That's why StringBuilder is faster
+       than StringBuffer. String concatenation operator (+) internally uses StringBuffer or StringBuilder
+       class
 
 What is Singleton class?
-Answer:
+Answer:In object-oriented programming, a singleton class is a class that can have only
+       one object (an instance of the class) at a time.After the first time, if we try to
+       instantiate the Singleton class, the new variable also points to the first instance
+       created. So whatever modifications we do to any variable inside the class
+       through any instance, affects the variable of the single instance created and is
+       visible if we access that variable through any variable of that class type define
 
 What is Serialization and Deserialization?
-Answer:
+Answer:Serialization is a mechanism of converting the state of an object into a byte
+       stream. Deserialization is the reverse process where the byte stream is used to
+       recreate the actual Java object in memory. This mechanism is used to persist
+       the object.
 
 Explain the difference between While and Do..While loops?
-Answer:
+Answer:While loop checks the condition first and then executes the statement(s), whereas do while
+       loop will execute the statement(s) at least once, then the condition is checked. While loop is
+       entry controlled loop, whereas do while is exit controlled loop
 
 What is Enum?
 Answer:
