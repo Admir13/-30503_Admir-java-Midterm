@@ -70,7 +70,7 @@ that's why the main method has to be static so that JVM can load the class into 
 
 Which class is the superclass of all classes?
 Answer:The Object class is the superclass of all other classes in Java and a part of the built-in
-       java.lang package. If a parent class isn&#39;t specified using the extends keyword, the class will
+       java.lang package. If a parent class isn't specified using the extends keyword, the class will
        inherit from the Object class.
 
 What is difference between path and classpath variables?
