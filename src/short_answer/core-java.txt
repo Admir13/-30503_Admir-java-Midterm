@@ -196,7 +196,7 @@ Answer:The super keyword refers to superclass (parent) objects. It is used to ca
 What does JVM stand for?
 Answer:JVM(Java Virtual Machine) acts as a run-time engine to run Java applications.
        JVM is the one that actually calls the ain method present in a java code. JVM
-      is a part of JRE(Java Runtime Environment). JVM) + Libraries to run the
+      is a part of JRE(Java Runtime Environment). JVM Libraries to run the
        application. JVM Only Runtime environment for executing the Java byte code.
 
 Is JVM platform independent?
@@ -260,14 +260,14 @@ Answer:Serialization is a mechanism of converting the state of an object into a 
        recreate the actual Java object in memory. This mechanism is used to persist
        the object.
 
-Explain the difference between While and Do..While loops?
+Explain the difference between While and Do...While loops?
 Answer:While loop checks the condition first and then executes the statement(s), whereas do while
        loop will execute the statement(s) at least once, then the condition is checked. While loop is
        entry controlled loop, whereas do while is exit controlled loop
 
 What is Enum?
 Answer:An enum is a special class that represents a group of constants unchangeable variables, like final
-       variables. To create an enum , we use the enum keyword instead of class or interface, and
+       variables. To create an enum ,we use the enum keyword instead of class or interface, and
        separate the constants with a comma.
 
 What is Iterator?
