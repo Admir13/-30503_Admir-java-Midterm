@@ -307,7 +307,9 @@ Answer:Garbage Collection in Java is a process by which the programs perform mem
        and deletes them to reclaim the memory.
 
 Can you guarantee the garbage collection process?
-Answer:
+Answer: No, Garbage collection does not guarantee that a program will not run out of memory.
+
+
 
 What is the difference between stack and heap in Java?
 Answer:Stack access local variable only while Heap allows you to access variables globally
