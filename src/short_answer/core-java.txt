@@ -331,7 +331,9 @@ Answer:Multithreading in Java is a process of executing two or more threads
        threads takes less time.
 
 What is synchronization in Java?
-Answer:
+Answer:Synchronization in Java is the capability to control the access of multiple threads to any
+       shared resource. Java Synchronization is better option where we want to allow only one
+       thread to access the shared resource.
 
 What is a Framework?
 Answer:
