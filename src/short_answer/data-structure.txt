@@ -54,7 +54,9 @@ How do HashMaps work in Java? How do they store values, and when are they useful
 Answer:
 
 What is ArrayIndexOutOfBoundsException in java? When does it occur?
-Answer:
+Answer:The ArrayIndexOutOfBoundsException is one of the most common errors in Java.
+It occurs when a program attempts to access an invalid index in an array
+an index that is less than 0, or equal to or greater than the length of the array
 
 What are the different ways of copying an array into another array?
 Answer:Iterating each element of the given original array and copy one element at a time.
