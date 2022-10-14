@@ -286,10 +286,16 @@ Answer:The String is immutable in Java because of the security, synchronization 
        the String immutable.
 
 What is constructor chaining in Java?
-Answer:
+Answer:Constructor chaining is the process of calling one constructor from another
+       constructor with respect to current object.
+       One of the main use of constructor chaining is to avoid duplicate codes while
+       having multiple constructor  and make  code more readable.
+
 
 The difference between Serial and Parallel Garbage Collector?
-Answer:
+Answer:The parallel collector is also known as throughput collector, it's a generational collector similar
+       to the serial collector. The primary difference between the serial and parallel collectors is
+       that the parallel collector has multiple threads that are used to speed up garbage collection
 
 What does JIT stands for?
 Answer:
