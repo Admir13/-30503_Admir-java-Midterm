@@ -63,10 +63,11 @@ What is DFS and BFS?
 Answer:
 
 What is Recursion?
-Answer:
+Answer:The process in which a function calls itself directly or indirectly is called recursion.
 
 What are linear and non-linear data Structures?
-Answer:
+Answer:A linear data structure includes arrays, linked lists,queues and stacks.
+A non-linear data structure is made up of trees and graphs.
 
 Outline different sorting algorithms and their time complexities:
 
