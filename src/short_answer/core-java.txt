@@ -266,10 +266,14 @@ Answer:While loop checks the condition first and then executes the statement(s),
        entry controlled loop, whereas do while is exit controlled loop
 
 What is Enum?
-Answer:
+Answer:An enum is a special class that represents a group of constants unchangeable variables, like final
+       variables. To create an enum , we use the enum keyword instead of class or interface, and
+       separate the constants with a comma.
 
 What is Iterator?
-Answer:
+Answer:An Iterator is an object that can be used to loop through collections, like ArrayList and HashSet. It
+       is called an &quot;iterator&quot; because iterating is the technical term for looping. To use an
+       Iterator, you must import it from the java.util package.
 
 Which one will take more memory: an int or Integer? Why?
 Answer:
